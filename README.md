@@ -1,5 +1,12 @@
 # PulsarFlowerActivityIndicator
 
+##Installation
+###Cocoapods
+is comming soom
+
+###Manually
+Just drag RNLoadingButton.swift to your project and you are good to go.
+
 ##Requirements
 Xcode 8.0+, Swift 3
 
