@@ -15,4 +15,4 @@ Xcode 8.0+, Swift 3
 ##License
 PulsarFlowerActivityIndicator is released under the MIT license. See [LICENSE](https://opensource.org/licenses/MIT) for details.
 
-[preview]: PulsarFlowerActivityIndicator/pulsar.gif
+[preview]: https://github.com/Belinskaya/PulsarFlowerActivityIndicator/blob/master/pulsar.gif
