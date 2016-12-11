@@ -4,7 +4,7 @@
 
 ##Installation
 ###Cocoapods
-is comming soom
+is comming soon
 
 ###Manually
 Just drag RNLoadingButton.swift to your project and you are good to go.
