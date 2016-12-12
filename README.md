@@ -1,5 +1,5 @@
 # PulsarFlowerActivityIndicator
-A pulsing activity indicator written in swift
+A pulsing activity indicator written in swift 3
 
 
 ![alt text][preview]
@@ -54,10 +54,6 @@ pulsar.stopAnimation {
             print("animation stopped")
         }
 ```
-
-
-##Requirements
-Xcode 8.0+, Swift 3
 
 ##License
 PulsarFlowerActivityIndicator is released under the MIT license. See [LICENSE](https://opensource.org/licenses/MIT) for details.
