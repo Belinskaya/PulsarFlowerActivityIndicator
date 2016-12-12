@@ -43,6 +43,19 @@ to change animation duration for one full wheel turn:
 pulsar.duration = 4
 ```
 
+To start animation :
+```swift
+pulsar.startAnimation()
+```
+
+To stop (with optional completion handler):
+```swift
+pulsar.stopAnimation { 
+            print("animation stopped")
+        }
+```
+
+
 ##Requirements
 Xcode 8.0+, Swift 3
 
