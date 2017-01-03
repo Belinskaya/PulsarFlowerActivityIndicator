@@ -1,5 +1,5 @@
 # PulsarFlowerActivityIndicator
-A pulsing activity indicator written in swift 3
+A pulse activity indicator written in swift 3
 
 
 ![alt text][preview]
